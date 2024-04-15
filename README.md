@@ -7,8 +7,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanghyun2&show_icons=true&theme=swift)
 
-<br>
-
 ## A
 <div style="display:flex; flex-direction:row;">
  <a href="https://dev-lkh.tistory.com">
