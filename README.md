@@ -1,6 +1,6 @@
 <div align=left>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=hi&animation=fadeIn&fontSize=50&fontColor=00000)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=100&section=header&text=hi&animation=fadeIn&fontSize=50&fontColor=00000)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKanghyun2&count_bg=%235F78E9&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GIT+HUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br>
