@@ -6,7 +6,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKanghyun2&count_bg=%23989595&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GIT+HUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanghyun2&show_icons=true&theme=dracula)
-## A
+## ✒ Blog ✒
 <div style="display:flex; flex-direction:row;">
  <a href="https://dev-lkh.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-flat&logo=Tistory&logoColor=white"> 
@@ -14,7 +14,7 @@
 </div>
 <br>
 
-## B
+## 🛠 Tech Stack 🛠
 <div style="display:flex; flex-direction:row;">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-flat&logo=Java&logoColor=white"> 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
